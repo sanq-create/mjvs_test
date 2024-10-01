@@ -1,0 +1,70 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore configuration files
+*.env
+*.local
+*.yml
+*.yaml
+
+# Ignore compiled files
+*.o
+*.out
+*.class
+*.jar
+
+# Ignore coverage reports
+coverage/
+*.cover
+*.lcov
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore image files that are generated
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
