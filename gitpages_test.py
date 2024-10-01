@@ -1,7 +1,7 @@
 from github import Github
 
 # Replace with your details
-access_token = "YOUR_PERSONAL_ACCESS_TOKEN"
+access_token = input("YOUR_PERSONAL_ACCESS_TOKEN")
 repo_name = "username.github.io"  # Replace with your repo name
 file_path = "path/to/your/file.txt"  # Replace with the path to your file
 commit_message = "Add new file"
